@@ -1,4 +1,3 @@
-# YaoChuCai.github.io
 #EXTM3U
 #EXTINF:-1,合川频道
 http://live.cbncdn.cn/__cl/cg:live/__c/hechuan/__op/default/__f/index.m3u8?sig=56cba313344e9d20274fa2717a22c172&ext_start_limit=1701850525&int_start_limit=1701850525&expires=1701850525&c=null
