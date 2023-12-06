@@ -1,3 +1,4 @@
+测试,#genre#
 合川综合,http://live.cbncdn.cn/__cl/cg:live/__c/hechuan/__op/default/__f/index.m3u8?sig=56cba313344e9d20274fa2717a22c172&ext_start_limit=1701850525&int_start_limit=1701850525&expires=1701850525&c=null
 重庆社会与法,http://live.cbncdn.cn/__cl/cg:live/__c/CQTVTrendyHD/__op/default/__f/index.m3u8?sig=d5eaf6b5bf1c9dca2004a949f2cedf97&ext_start_limit=1701853955&int_start_limit=1701853955&expires=1701853955&c=null
 重庆新闻,https://sjlivecdn9.cbg.cn/202312051714/app_2/_definst_/ls_3.stream/chunklist.m3u8
