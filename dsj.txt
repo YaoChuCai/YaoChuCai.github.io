@@ -41,6 +41,6 @@ CCTV女性时尚,http://113.207.84.197/session/6f8e1784-9419-11ee-ba5f-5254004d1
 中国教育三套CETV3,http://120.196.232.15:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226722/1.m3u8
 CETV4空中课堂,http://120.196.232.21:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226724/1.m3u8
 早期教育,http://live.cbncdn.cn/__cl/cg:live/__c/zaojiaoHD/__op/default/__f/index.m3u8?sig=e848f8cfc9208c379459d15bf1ad0982&ext_start_limit=1701940443&int_start_limit=1701940443&expires=1701940443&c=null
-国学,http://live.cbncdn.cn/__cl/cg:live/__c/guoxue/__op/default/__f/index.m3u8?sig=b5f32df1edf1c58d73ecc7bdb2788033&ext_start_limit=1701935259&int_start_limit=1701935259&expires=1701935259&c=null
+国学频道,http://live.cbncdn.cn/__cl/cg:live/__c/guoxue/__op/default/__f/index.m3u8?sig=b5f32df1edf1c58d73ecc7bdb2788033&ext_start_limit=1701935259&int_start_limit=1701935259&expires=1701935259&c=null
 北京频道,#genre#
 北京新闻,https://live.funhillrm.com/5/sd/live.m3u8
