@@ -1,5 +1,4 @@
 ﻿重庆频道,#genre#
-重庆社会与法,http://live.cbncdn.cn/__cl/cg:live/__c/CQTVTrendyHD/__op/default/__f/index.m3u8?sig=cd30c12fee66834010bbf0807b3babdd&ext_start_limit=1701936337&int_start_limit=1701936337&expires=1701936337&c=null
 重庆新闻,https://sjlivecdn9.cbg.cn/202312061533/app_2/_definst_/ls_3.stream/chunklist.m3u8
 重庆影视,http://live.cbncdn.cn/__cl/cg:live/__c/cqyingshiHD/__op/default/__f/index.m3u8?sig=e452d75bace5feb9a6229f34e374a1f5&ext_start_limit=1701936936&int_start_limit=1701936936&expires=1701936936&c=null
 重庆时尚,http://live.cbncdn.cn/__cl/cg:live/__c/cqssgwHD/__op/default/__f/index.m3u8?sig=ac089fe5e4c7d5da2d4bdf464c75af8f&ext_start_limit=1701938671&int_start_limit=1701938671&expires=1701938671&c=null
