@@ -13,7 +13,7 @@
 CCTV1,http://stream10.fjtv.net/cctv1/hd/live.m3u8?_upt=7782acd01701865656
 CCTV2,http://120.196.232.54:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226739/1.m3u8
 CCTV3,http://120.196.232.50:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226720/1.m3u8
-CCTV4,http://120.196.232.27:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226725/1.m3u8
+CCTV4,http://live.cbncdn.cn/__cl/cg:live/__c/cctv4HD/__op/default/__f/index.m3u8?sig=433300619ba37826b85a745d3417dc54&ext_start_limit=1701938681&int_start_limit=1701938681&expires=1701938681&c=null
 CCTV5,http://120.196.232.31:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226731/1.m3u8
 CCTV5+,http://120.196.232.51:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226711/1.m3u8
 CCTV6,http://120.196.232.25:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226699/1.m3u8
