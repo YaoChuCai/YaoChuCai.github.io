@@ -1,4 +1,4 @@
-测试,#genre#
+重庆频道,#genre#
 合川综合,http://live.cbncdn.cn/__cl/cg:live/__c/hechuan/__op/default/__f/index.m3u8?sig=56cba313344e9d20274fa2717a22c172&ext_start_limit=1701850525&int_start_limit=1701850525&expires=1701850525&c=null
 重庆社会与法,http://live.cbncdn.cn/__cl/cg:live/__c/CQTVTrendyHD/__op/default/__f/index.m3u8?sig=d5eaf6b5bf1c9dca2004a949f2cedf97&ext_start_limit=1701853955&int_start_limit=1701853955&expires=1701853955&c=null
 重庆新闻,https://sjlivecdn9.cbg.cn/202312051714/app_2/_definst_/ls_3.stream/chunklist.m3u8
@@ -10,6 +10,7 @@
 重庆少儿,http://live.cbncdn.cn/__cl/cg:live/__c/cqseHD/__op/default/__f/index.m3u8?sig=065cc25be34aee89298f3196d46831e8&ext_start_limit=1701848347&int_start_limit=1701848347&expires=1701848347&c=null
 重庆新农村,http://live.cbncdn.cn/__cl/cg:live/__c/cqggncHD/__op/default/__f/index.m3u8?sig=8d69ae3ab7b9953362b1864c34d3c2ea&ext_start_limit=1701851381&int_start_limit=1701851381&expires=1701851381&c=null
 CCTV1,http://stream10.fjtv.net/cctv1/hd/live.m3u8?_upt=f2a8bd301701779562
+央视频道,#genre#
 CCTV2,http://120.196.232.54:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226739/1.m3u8
 CCTV3,http://120.196.232.50:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226720/1.m3u8
 CCTV4,http://120.196.232.27:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226725/1.m3u8
