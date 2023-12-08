@@ -48,7 +48,7 @@ CHC家庭影院,http://live.cbncdn.cn/__cl/cg:live/__c/chcjtyyHD/__op/default/__
 CHC高清电影,http://live.cbncdn.cn/__cl/cg:live/__c/chcgqdyHD/__op/default/__f/index.m3u8?sig=4c8aeb61989f0005cffd7bdf48ead044&ext_start_limit=1702124707&int_start_limit=1702124707&expires=1702124707&c=null
 早期教育,http://live.cbncdn.cn/__cl/cg:live/__c/zaojiaoHD/__op/default/__f/index.m3u8?sig=3a222495cc29ee213620cd168dcdabcd&ext_start_limit=1702124122&int_start_limit=1702124122&expires=1702124122&c=null
 中国教育一套CETV1,http://live.cbncdn.cn/__cl/cg:live/__c/cetv-1SD/__op/default/__f/index.m3u8?sig=5badfbedfc54edeaf59878a6a9982273&ext_start_limit=1702125201&int_start_limit=1702125201&expires=1702125201&c=null
-CETV4空中课堂,第 1-50 条/总共 227 条
+CETV4空中课堂,http://live.cbncdn.cn/__cl/cg:live/__c/cetv-4SD/__op/default/__f/index.m3u8?sig=d769c091a162d862eae1feaa010ac1d1&ext_start_limit=1702128202&int_start_limit=1702128202&expires=1702128202&c=null
 国学频道,http://live.cbncdn.cn/__cl/cg:live/__c/guoxue/__op/default/__f/index.m3u8?sig=103c3fff697d377068dde7ebc1ac759b&ext_start_limit=1702130803&int_start_limit=1702130803&expires=1702130803&c=null
 安徽卫视,http://live.cbncdn.cn/__cl/cg:live/__c/anhuiSD/__op/default/__f/index.m3u8?sig=32bbefe51aa932dd42b4d39a55adf158&ext_start_limit=1702128640&int_start_limit=1702128640&expires=1702128640&c=null
 北京频道,#genre#
