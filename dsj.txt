@@ -16,14 +16,14 @@ CCTV2财经,http://live.cbncdn.cn/__cl/cg:live/__c/cctv2HD/__op/default/__f/inde
 CCTV3综艺,http://live.cbncdn.cn/__cl/cg:live/__c/cctv3HD/__op/default/__f/index.m3u8?sig=27488d9246476ac704d35e48a803501d&ext_start_limit=1702123565&int_start_limit=1702123565&expires=1702123565&c=null
 CCTV4中文国际,http://live.cbncdn.cn/__cl/cg:live/__c/cctv4HD/__op/default/__f/index.m3u8?sig=93c9f13eed792fb191102166283be0fc&ext_start_limit=1702123247&int_start_limit=1702123247&expires=1702123247&c=null
 CCTV5体育,http://120.196.232.31:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226731/1.m3u8
-CCTV5+体育赛事,http://113.207.84.197/session/2da1e4cc-95c7-11ee-8422-525400dfb345$h1.0$live.cbncdn.cn/pj9p9p/__cl/cg:live/__c/cctv5SportHD/__op/default/__f/index.m3u8?token=f9e3e5fe5abe99d9c62d3b48d2aff3a5_1702124996_1702124996
+CCTV5+体育赛事,http://120.196.232.25:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226699/1.m3u8
 CCTV6电影,http://live.cbncdn.cn/__cl/cg:live/__c/cctv6HD/__op/default/__f/index.m3u8?sig=aa6d2916df49978bada55bfa7c46471d&ext_start_limit=1702122165&int_start_limit=1702122165&expires=1702122165&c=null
 CCTV7国防军事,http://live.cbncdn.cn/__cl/cg:live/__c/cctv7HD/__op/default/__f/index.m3u8?sig=a3b906a0ede35ecf90baeca43fc670cd&ext_start_limit=1702120431&int_start_limit=1702120431&expires=1702120431&c=null
 CCTV8电视剧,http://120.196.232.17:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226715/1.m3u8
 CCTV9纪录,http://live.cbncdn.cn/__cl/cg:live/__c/cctv9HD/__op/default/__f/index.m3u8?sig=9b103e8bc4891db9a18b79e633677171&ext_start_limit=1702122752&int_start_limit=1702122752&expires=1702122752&c=null
 CCTV10科教,http://live.cbncdn.cn/__cl/cg:live/__c/cctv10HD/__op/default/__f/index.m3u8?sig=9cc6c886ef3d152409e86bab9aae7da1&ext_start_limit=1702119075&int_start_limit=1702119075&expires=1702119075&c=null
-CCTV11戏曲,http://113.207.84.197/session/3f290db0-95c7-11ee-94c9-5254004d191c$h1.0$live.cbncdn.cn/pj9p9p/__cl/cg:live/__c/cctv11HD/__op/default/__f/index.m3u8?token=0705582fbbd32fed08c705c75da12e27_1702125148_1702125148
-CCTV12社会与法,http://113.207.84.200/session/42c0a4c4-95c7-11ee-83eb-5254006225bb$h1.0$live.cbncdn.cn/pj9p9p/__cl/cg:live/__c/cctv12HD/__op/default/__f/index.m3u8?token=356a783fdec12a7656a593c799f499e4_1702119099_1702119099
+CCTV11戏曲,http://113.207.84.197/session/3f290db0-95c7-11ee-94c9-5254004d191c$h1.0$live.cbncdn.cn/pj9p9p/__cl/cg:live/__c/cctv11HD/__op/default/__f/1/v6M/index.m3u8
+CCTV12社会与法,第 51-100 条/总共 187 条
 CCTV13新闻,http://live.cbncdn.cn/__cl/cg:live/__c/CCTVNewsHD/__op/default/__f/index.m3u8?sig=547d3d14356a66a21930dbeb6fdc04c5&ext_start_limit=1702123700&int_start_limit=1702123700&expires=1702123700&c=null
 CCTV14少儿,http://live.cbncdn.cn/__cl/cg:live/__c/cctvseHD/__op/default/__f/index.m3u8?sig=4dac830a7dd9fe386ffaf6ca3b6216b6&ext_start_limit=1702119787&int_start_limit=1702119787&expires=1702119787&c=null
 CCTV15音乐,http://live.cbncdn.cn/__cl/cg:live/__c/cctv15HD/__op/default/__f/index.m3u8?sig=494ee396b0a3057d2b8e0035a34ab7c0&ext_start_limit=1702122296&int_start_limit=1702122296&expires=1702122296&c=null
@@ -33,7 +33,7 @@ CCTV央视文化精品,http://live.cbncdn.cn/__cl/cg:live/__c/yswhHD/__op/defaul
 CCTV中学生,http://live.cbncdn.cn/__cl/cg:live/__c/qicai/__op/default/__f/index.m3u8?sig=fb83626ac0afc74c743b4c2b7a4446a2&ext_start_limit=1702125179&int_start_limit=1702125179&expires=1702125179&c=null
 CCTV兵器科技,http://113.207.84.199/session/582b80e0-95c7-11ee-a8a7-5254003e6f6f$h1.0$live.cbncdn.cn/pj9p9p/__cl/cg:live/__c/bqkjHD/__op/default/__f/2/a48k_zho/index.m3u8
 CCTV老故事,http://live.cbncdn.cn/__cl/cg:live/__c/gushi/__op/default/__f/index.m3u8?sig=6b82b765f3e22ffb948ececb279ea0fe&ext_start_limit=1702118622&int_start_limit=1702118622&expires=1702118622&c=null
-CCTV怀旧剧场,http://113.207.84.199/session/5a98d40e-95c7-11ee-a8a7-5254003e6f6f$h1.0$live.cbncdn.cn/pj9p9p/__cl/cg:live/__c/hjjcHD/__op/default/__f/index.m3u8?token=bdf02a85276914bcfa9de4c2123f3a30_1702120851_1702120851
-CCTV第一剧场,http://113.207.84.196/session/5963701c-95c7-11ee-8422-525400dfb345$h1.0$live.cbncdn.cn/pj9p9p/__cl/cg:live/__c/diyijuchangHD/__op/default/__f/index.m3u8?token=bb91229850788c03272002b2a15c9eac_1702121117_1702121117
+CCTV怀旧剧场,http://113.207.84.199/session/5a98d40e-95c7-11ee-a8a7-5254003e6f6f$h1.0$live.cbncdn.cn/pj9p9p/__cl/cg:live/__c/hjjcHD/__op/default/__f/2/a48k_zho/index.m3u8
+CCTV第一剧场,http://live.cbncdn.cn/__cl/cg:live/__c/diyijuchangHD/__op/default/__f/index.m3u8?sig=27d67ca6933924cc1c9199c7315f4034&ext_start_limit=1702121117&int_start_limit=1702121117&expires=1702121117&c=null
 CCTV女性时尚,http://live.cbncdn.cn/__cl/cg:live/__c/nvxing/__op/default/__f/index.m3u8?sig=593c672e4f651c8646ffeb8f549ed77f&ext_start_limit=1702121226&int_start_limit=1702121226&expires=1702121226&c=null
 CCTV发现之旅,http://223.110.243.134/PLTV/4/224/3221227030/index.m3u8
