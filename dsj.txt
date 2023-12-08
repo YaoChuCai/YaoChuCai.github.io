@@ -1,5 +1,5 @@
 ﻿重庆频道,#genre#
-
+合川综合,http://live.cbncdn.cn/__cl/cg:live/__c/hechuan/__op/default/__f/index.m3u8?sig=81fb8c3ba98d9f6275b3394c8a6340b6&ext_start_limit=1702125030&int_start_limit=1702125030&expires=1702125030&c=null
 重庆社会与法,http://live.cbncdn.cn/__cl/cg:live/__c/CQTVTrendyHD/__op/default/__f/index.m3u8?sig=78a6aa65a45bddb0e581b74e4875e664&ext_start_limit=1702130603&int_start_limit=1702130603&expires=1702130603&c=null
 重庆新闻,http://live.cbncdn.cn/__cl/cg:live/__c/CQTVNewsHD/__op/default/__f/index.m3u8?sig=b77ce48ff0f0d1682d6571b228e2e4c5&ext_start_limit=1702125335&int_start_limit=1702125335&expires=1702125335&c=null
 重庆影视,http://live.cbncdn.cn/__cl/cg:live/__c/cqyingshiHD/__op/default/__f/index.m3u8?sig=cf5aa9cdb2a09424a86529b052d44a30&ext_start_limit=1702123724&int_start_limit=1702123724&expires=1702123724&c=null
