@@ -1,103 +1,103 @@
 ﻿#EXTM3U
 #EXTINF:-1 tvg-id="合川综合频道" tvg-name="合川综合频道" tvg-logo="https://yaochucai.github.io/电视图标/合川综合频道.png" group-title="重庆频道",合川综合频道
-http://live.cbncdn.cn/__cl/cg:live/__c/hechuan/__op/default/__f/index.m3u8?sig=197ed21b1070be8fa0f33116268d7cbb&ext_start_limit=1702198646&int_start_limit=1702198646&expires=1702198646&c=null
+http://live.cbncdn.cn/__cl/cg:live/__c/hechuan/__op/default/__f/index.m3u8?sig=30c2a1fd4a627b4fdf395161561d684f&ext_start_limit=1702211389&int_start_limit=1702211389&expires=1702211389&c=null
 #EXTINF:-1 tvg-id="重庆社会与法" tvg-name="重庆社会与法" tvg-logo="https://yaochucai.github.io/电视图标/重庆社会与法.png" group-title="重庆频道",重庆社会与法
-http://live.cbncdn.cn/__cl/cg:live/__c/CQTVTrendyHD/__op/default/__f/index.m3u8?sig=a3221cbed125f1cfddc4fdccc6525d15&ext_start_limit=1702195941&int_start_limit=1702195941&expires=1702195941&c=null
+http://live.cbncdn.cn/__cl/cg:live/__c/CQTVTrendyHD/__op/default/__f/index.m3u8?sig=8160684bd4a8f07df92e3eb62696d170&ext_start_limit=1702211027&int_start_limit=1702211027&expires=1702211027&c=null
 #EXTINF:-1 tvg-id="重庆新闻" tvg-name="重庆新闻" tvg-logo="https://yaochucai.github.io/电视图标/重庆新闻.png" group-title="重庆频道",重庆新闻
-http://live.cbncdn.cn/__cl/cg:live/__c/CQTVNewsHD/__op/default/__f/index.m3u8?sig=3fe6b7a44409a2c485856976f0a935ae&ext_start_limit=1702197590&int_start_limit=1702197590&expires=1702197590&c=null
+http://live.cbncdn.cn/__cl/cg:live/__c/CQTVNewsHD/__op/default/__f/index.m3u8?sig=7a2674676471a24946364c8913d1db6c&ext_start_limit=1702204997&int_start_limit=1702204997&expires=1702204997&c=null
 #EXTINF:-1 tvg-id="重庆影视" tvg-name="重庆影视" tvg-logo="https://yaochucai.github.io/电视图标/重庆影视.png" group-title="重庆频道",重庆影视
-http://live.cbncdn.cn/__cl/cg:live/__c/cqyingshiHD/__op/default/__f/index.m3u8?sig=2115621d3d40912fc8c48a107a72def0&ext_start_limit=1702198076&int_start_limit=1702198076&expires=1702198076&c=null
+http://live.cbncdn.cn/__cl/cg:live/__c/cqyingshiHD/__op/default/__f/index.m3u8?sig=a3028fa360f629867955ce9a6d4ed7de&ext_start_limit=1702205992&int_start_limit=1702205992&expires=1702205992&c=null
 #EXTINF:-1 tvg-id="重庆卫视" tvg-name="重庆卫视" tvg-logo="https://yaochucai.github.io/电视图标/重庆卫视.png" group-title="重庆频道",重庆卫视
-http://live.cbncdn.cn/__cl/cg:live/__c/chongqingHD/__op/default/__f/index.m3u8?sig=ae3e110d7e10dd636a4d422ce5fa657c&ext_start_limit=1702196226&int_start_limit=1702196226&expires=1702196226&c=null
+http://live.cbncdn.cn/__cl/cg:live/__c/chongqingHD/__op/default/__f/index.m3u8?sig=ed93bf33b0a252b3c2e961463ad1242f&ext_start_limit=1702210953&int_start_limit=1702210953&expires=1702210953&c=null
 #EXTINF:-1 tvg-id="重庆时尚生活" tvg-name="重庆时尚生活" tvg-logo="https://yaochucai.github.io/电视图标/重庆时尚生活.png" group-title="重庆频道",重庆时尚生活
-http://live.cbncdn.cn/__cl/cg:live/__c/cqssgwHD/__op/default/__f/index.m3u8?sig=34c0bdb60930e2548d5541bd5317233f&ext_start_limit=1702193303&int_start_limit=1702193303&expires=1702193303&c=null
+http://live.cbncdn.cn/__cl/cg:live/__c/cqssgwHD/__op/default/__f/index.m3u8?sig=a4028357fdf472c194276f04429cef6f&ext_start_limit=1702208797&int_start_limit=1702208797&expires=1702208797&c=null
 #EXTINF:-1 tvg-id="重庆科教" tvg-name="重庆科教" tvg-logo="https://yaochucai.github.io/电视图标/重庆科教.png" group-title="重庆频道",重庆科教
-http://live.cbncdn.cn/__cl/cg:live/__c/CQTVkejiaoHD/__op/default/__f/index.m3u8?sig=9c2920d69b838c8cf11319e3e630b0d7&ext_start_limit=1702198249&int_start_limit=1702198249&expires=1702198249&c=null
+http://live.cbncdn.cn/__cl/cg:live/__c/CQTVkejiaoHD/__op/default/__f/index.m3u8?sig=0ec5de4fcc41a7b71b95995d729ac1db&ext_start_limit=1702209095&int_start_limit=1702209095&expires=1702209095&c=null
 #EXTINF:-1 tvg-id="重庆文体娱乐" tvg-name="重庆文体娱乐" tvg-logo="https://yaochucai.github.io/电视图标/重庆文体娱乐.png" group-title="重庆频道",重庆文体娱乐
-http://live.cbncdn.cn/__cl/cg:live/__c/cqwtylHD/__op/default/__f/index.m3u8?sig=fe9381a03e2b0de254aa46a612162fb6&ext_start_limit=1702191553&int_start_limit=1702191553&expires=1702191553&c=null
+http://live.cbncdn.cn/__cl/cg:live/__c/cqwtylHD/__op/default/__f/index.m3u8?sig=cfa7664db67c5eece9de8da00c00f9f2&ext_start_limit=1702207098&int_start_limit=1702207098&expires=1702207098&c=null
 #EXTINF:-1 tvg-id="重庆汽摩" tvg-name="重庆汽摩" tvg-logo="https://yaochucai.github.io/电视图标/重庆汽摩.png" group-title="重庆频道",重庆汽摩
-http://live.cbncdn.cn/__cl/cg:live/__c/cqcarSD/__op/default/__f/index.m3u8?sig=2ce51101c9af54056963390556357132&ext_start_limit=1702195801&int_start_limit=1702195801&expires=1702195801&c=null
+http://live.cbncdn.cn/__cl/cg:live/__c/cqcarSD/__op/default/__f/index.m3u8?sig=ee3deba698a76aecac1b75ada30f4bc0&ext_start_limit=1702210576&int_start_limit=1702210576&expires=1702210576&c=null
 #EXTINF:-1 tvg-id="重庆少儿" tvg-name="重庆少儿" tvg-logo="https://yaochucai.github.io/电视图标/重庆少儿.png" group-title="重庆频道",重庆少儿
-http://live.cbncdn.cn/__cl/cg:live/__c/cqseHD/__op/default/__f/index.m3u8?sig=9d492fe59abe3a25d681a55e01afb457&ext_start_limit=1702194054&int_start_limit=1702194054&expires=1702194054&c=null
+http://live.cbncdn.cn/__cl/cg:live/__c/cqseHD/__op/default/__f/index.m3u8?sig=4c284ca8bde4629d1bbe20937374bbef&ext_start_limit=1702210297&int_start_limit=1702210297&expires=1702210297&c=null
 #EXTINF:-1 tvg-id="重庆新农村" tvg-name="重庆新农村" tvg-logo="https://yaochucai.github.io/电视图标/重庆新农村.png" group-title="重庆频道",重庆新农村
-http://live.cbncdn.cn/__cl/cg:live/__c/cqggncHD/__op/default/__f/index.m3u8?sig=abe840080774278a8369d7837e3b3514&ext_start_limit=1702195758&int_start_limit=1702195758&expires=1702195758&c=null
+http://live.cbncdn.cn/__cl/cg:live/__c/cqggncHD/__op/default/__f/index.m3u8?sig=004840ec3330bd6cc7d6ae0f23115cbd&ext_start_limit=1702206411&int_start_limit=1702206411&expires=1702206411&c=null
 #EXTINF:-1 tvg-id="CCTV1综合" tvg-name="CCTV1综合" tvg-logo="https://yaochucai.github.io/电视图标/CCTV1综合.png" group-title="央视频道",CCTV1综合
-http://live.cbncdn.cn/__cl/cg:live/__c/cctv1HD/__op/default/__f/index.m3u8?sig=839c109cabb9c46c488e79e6cfa674a6&ext_start_limit=1702197380&int_start_limit=1702197380&expires=1702197380&c=null
+http://live.cbncdn.cn/__cl/cg:live/__c/cctv1HD/__op/default/__f/index.m3u8?sig=d3fc766936cc99e3cea37dfd7540db10&ext_start_limit=1702204881&int_start_limit=1702204881&expires=1702204881&c=null
 #EXTINF:-1 tvg-id="CCTV2财经" tvg-name="CCTV2财经" tvg-logo="https://yaochucai.github.io/电视图标/CCTV2财经.png" group-title="央视频道",CCTV2财经
-http://live.cbncdn.cn/__cl/cg:live/__c/cctv2HD/__op/default/__f/index.m3u8?sig=9236200fce99bdf25fcf07e8631d57db&ext_start_limit=1702193724&int_start_limit=1702193724&expires=1702193724&c=null
+http://live.cbncdn.cn/__cl/cg:live/__c/cctv2HD/__op/default/__f/index.m3u8?sig=e9ef48e1866c3e6421e0780fbbb3b78b&ext_start_limit=1702208404&int_start_limit=1702208404&expires=1702208404&c=null
 #EXTINF:-1 tvg-id="CCTV3综艺" tvg-name="CCTV3综艺" tvg-logo="https://yaochucai.github.io/电视图标/CCTV3综艺.png" group-title="央视频道",CCTV3综艺
-http://live.cbncdn.cn/__cl/cg:live/__c/cctv3HD/__op/default/__f/index.m3u8?sig=b0128bbe62aa5c02d9bdaa58f8043b04&ext_start_limit=1702191674&int_start_limit=1702191674&expires=1702191674&c=null
+http://live.cbncdn.cn/__cl/cg:live/__c/cctv3HD/__op/default/__f/index.m3u8?sig=d1661fd2cee5da65ba40b36470e2f704&ext_start_limit=1702206193&int_start_limit=1702206193&expires=1702206193&c=null
 #EXTINF:-1 tvg-id="CCTV4中文国际" tvg-name="CCTV4中文国际" tvg-logo="https://yaochucai.github.io/电视图标/CCTV4中文国际.png" group-title="央视频道",CCTV4中文国际
-http://live.cbncdn.cn/__cl/cg:live/__c/cctv4HD/__op/default/__f/index.m3u8?sig=0e55f00434abde14ed8cfe2810cd75ab&ext_start_limit=1702198074&int_start_limit=1702198074&expires=1702198074&c=null
+http://live.cbncdn.cn/__cl/cg:live/__c/cctv4HD/__op/default/__f/index.m3u8?sig=cab0d8b861cb8d5e8c9d39e47fcb4e27&ext_start_limit=1702205346&int_start_limit=1702205346&expires=1702205346&c=null
 #EXTINF:-1 tvg-id="CCTV5体育" tvg-name="CCTV5体育" tvg-logo="https://yaochucai.github.io/电视图标/CCTV5体育.png" group-title="央视频道",CCTV5体育
-http://live.cbncdn.cn/__cl/cg:live/__c/cctv5HD/__op/default/__f/index.m3u8?sig=8508dfeaafffa7c947c2e377724d2a99&ext_start_limit=1702194760&int_start_limit=1702194760&expires=1702194760&c=null
+http://live.cbncdn.cn/__cl/cg:live/__c/cctv5HD/__op/default/__f/index.m3u8?sig=b9c34b8f74ada25170b0e5e914ef2d22&ext_start_limit=1702209192&int_start_limit=1702209192&expires=1702209192&c=null
 #EXTINF:-1 tvg-id="CCTV5+体育赛事" tvg-name="CCTV5+体育赛事" tvg-logo="https://yaochucai.github.io/电视图标/CCTV5+体育赛事.png" group-title="央视频道",CCTV5+体育赛事
-http://live.cbncdn.cn/__cl/cg:live/__c/cctv5SportHD/__op/default/__f/index.m3u8?sig=102024873f22dca9ac8045b20963a58b&ext_start_limit=1702192510&int_start_limit=1702192510&expires=1702192510&c=null
+http://live.cbncdn.cn/__cl/cg:live/__c/cctv5SportHD/__op/default/__f/index.m3u8?sig=b3b29c824fed22b70f764ef4496f35cc&ext_start_limit=1702207534&int_start_limit=1702207534&expires=1702207534&c=null
 #EXTINF:-1 tvg-id="CCTV6电影" tvg-name="CCTV6电影" tvg-logo="https://yaochucai.github.io/电视图标/CCTV6电影.png" group-title="央视频道",CCTV6电影
-http://live.cbncdn.cn/__cl/cg:live/__c/cctv6HD/__op/default/__f/index.m3u8?sig=9a96f152152b087a4a9c8c6540f86f20&ext_start_limit=1702195257&int_start_limit=1702195257&expires=1702195257&c=null
+http://live.cbncdn.cn/__cl/cg:live/__c/cctv6HD/__op/default/__f/index.m3u8?sig=a8c52dc13dda275a86b2b417697f9187&ext_start_limit=1702209964&int_start_limit=1702209964&expires=1702209964&c=null
 #EXTINF:-1 tvg-id="CCTV7国防军事" tvg-name="CCTV7国防军事" tvg-logo="https://yaochucai.github.io/电视图标/CCTV7国防军事.png" group-title="央视频道",CCTV7国防军事
-http://live.cbncdn.cn/__cl/cg:live/__c/cctv7HD/__op/default/__f/index.m3u8?sig=db47d82804ee92fad9ccbb681b3723fa&ext_start_limit=1702195779&int_start_limit=1702195779&expires=1702195779&c=null
+http://live.cbncdn.cn/__cl/cg:live/__c/cctv7HD/__op/default/__f/index.m3u8?sig=c2ea2490a24836efcdab3d648a74aff6&ext_start_limit=1702211160&int_start_limit=1702211160&expires=1702211160&c=null
 #EXTINF:-1 tvg-id="CCTV8电视剧" tvg-name="CCTV8电视剧" tvg-logo="https://yaochucai.github.io/电视图标/CCTV8电视剧.png" group-title="央视频道",CCTV8电视剧
-http://live.cbncdn.cn/__cl/cg:live/__c/cctv8HD/__op/default/__f/index.m3u8?sig=b5c970ae1e744cc660721e714ad9b7ef&ext_start_limit=1702195476&int_start_limit=1702195476&expires=1702195476&c=null
+http://live.cbncdn.cn/__cl/cg:live/__c/cctv8HD/__op/default/__f/index.m3u8?sig=6257fb23405f94d1c306a72d266fbdb0&ext_start_limit=1702210244&int_start_limit=1702210244&expires=1702210244&c=null
 #EXTINF:-1 tvg-id="CCTV9纪录" tvg-name="CCTV9纪录" tvg-logo="https://yaochucai.github.io/电视图标/CCTV9纪录.png" group-title="央视频道",CCTV9纪录
-http://live.cbncdn.cn/__cl/cg:live/__c/cctv9HD/__op/default/__f/index.m3u8?sig=1ba4658adef07bc6175cd763a4b5e17c&ext_start_limit=1702192114&int_start_limit=1702192114&expires=1702192114&c=null
+http://live.cbncdn.cn/__cl/cg:live/__c/cctv9HD/__op/default/__f/index.m3u8?sig=cce342b88fb59afca159134cf617bc9c&ext_start_limit=1702208010&int_start_limit=1702208010&expires=1702208010&c=null
 #EXTINF:-1 tvg-id="CCTV10科教" tvg-name="CCTV10科教" tvg-logo="https://yaochucai.github.io/电视图标/CCTV10科教.png" group-title="央视频道",CCTV10科教
-http://live.cbncdn.cn/__cl/cg:live/__c/cctv10HD/__op/default/__f/index.m3u8?sig=efd72ceaa05e59bb21d2df40d18d1a2c&ext_start_limit=1702192201&int_start_limit=1702192201&expires=1702192201&c=null
+http://live.cbncdn.cn/__cl/cg:live/__c/cctv10HD/__op/default/__f/index.m3u8?sig=4ab8fb9723b5c09f3606821605e3b071&ext_start_limit=1702208700&int_start_limit=1702208700&expires=1702208700&c=null
 #EXTINF:-1 tvg-id="CCTV11戏曲" tvg-name="CCTV11戏曲" tvg-logo="https://yaochucai.github.io/电视图标/CCTV11戏曲.png" group-title="央视频道",CCTV11戏曲
-http://live.cbncdn.cn/__cl/cg:live/__c/cctv11HD/__op/default/__f/index.m3u8?sig=9defbd7a9f9873d9dc831c0d6fc04919&ext_start_limit=1702196066&int_start_limit=1702196066&expires=1702196066&c=null
+http://live.cbncdn.cn/__cl/cg:live/__c/cctv11HD/__op/default/__f/index.m3u8?sig=d6ed28029943b301a87e40bedd4ec4cc&ext_start_limit=1702210685&int_start_limit=1702210685&expires=1702210685&c=null
 #EXTINF:-1 tvg-id="CCTV12社会与法" tvg-name="CCTV12社会与法" tvg-logo="https://yaochucai.github.io/电视图标/CCTV12社会与法.png" group-title="央视频道",CCTV12社会与法
-http://live.cbncdn.cn/__cl/cg:live/__c/cctv12HD/__op/default/__f/index.m3u8?sig=09493035725eeb3b86f130343ef0df8f&ext_start_limit=1702198814&int_start_limit=1702198814&expires=1702198814&c=null
+http://live.cbncdn.cn/__cl/cg:live/__c/cctv12HD/__op/default/__f/index.m3u8?sig=094852d869ed235f17d1a1cf052fdd6d&ext_start_limit=1702207754&int_start_limit=1702207754&expires=1702207754&c=null
 #EXTINF:-1 tvg-id="CCTV13新闻" tvg-name="CCTV13新闻" tvg-logo="https://yaochucai.github.io/电视图标/CCTV13新闻.png" group-title="央视频道",CCTV13新闻
-http://live.cbncdn.cn/__cl/cg:live/__c/CCTVNewsHD/__op/default/__f/index.m3u8?sig=7a04ab8b49cca25e0f5072639a446a6d&ext_start_limit=1702195624&int_start_limit=1702195624&expires=1702195624&c=null
+http://live.cbncdn.cn/__cl/cg:live/__c/CCTVNewsHD/__op/default/__f/index.m3u8?sig=b285732bee3d87f15931045edbf80696&ext_start_limit=1702211499&int_start_limit=1702211499&expires=1702211499&c=null
 #EXTINF:-1 tvg-id="CCTV14少儿" tvg-name="CCTV14少儿" tvg-logo="https://yaochucai.github.io/电视图标/CCTV14少儿.png" group-title="央视频道",CCTV14少儿
-http://live.cbncdn.cn/__cl/cg:live/__c/cctvseHD/__op/default/__f/index.m3u8?sig=91278b2bd00c7b026223066520ef7bc6&ext_start_limit=1702192575&int_start_limit=1702192575&expires=1702192575&c=null
+http://live.cbncdn.cn/__cl/cg:live/__c/cctvseHD/__op/default/__f/index.m3u8?sig=48b0f9cf08199aa4a91202aeff3525c9&ext_start_limit=1702207406&int_start_limit=1702207406&expires=1702207406&c=null
 #EXTINF:-1 tvg-id="CCTV15音乐" tvg-name="CCTV15音乐" tvg-logo="https://yaochucai.github.io/电视图标/CCTV15音乐.png" group-title="央视频道",CCTV15音乐
-http://live.cbncdn.cn/__cl/cg:live/__c/cctv15HD/__op/default/__f/index.m3u8?sig=9149f89e37b1bc51dc7928b9a9c04acc&ext_start_limit=1702192410&int_start_limit=1702192410&expires=1702192410&c=null
+http://live.cbncdn.cn/__cl/cg:live/__c/cctv15HD/__op/default/__f/index.m3u8?sig=01d4c6af8a9a7b6b9825814ee40a2f7a&ext_start_limit=1702209992&int_start_limit=1702209992&expires=1702209992&c=null
 #EXTINF:-1 tvg-id="CCTV16奥林匹克" tvg-name="CCTV16奥林匹克" tvg-logo="https://yaochucai.github.io/电视图标/CCTV16奥林匹克.png" group-title="央视频道",CCTV16奥林匹克
-http://live.cbncdn.cn/__cl/cg:live/__c/cctv16HD/__op/default/__f/index.m3u8?sig=d29b9799dd3eea05b504d3ac6d3d23a1&ext_start_limit=1702192513&int_start_limit=1702192513&expires=1702192513&c=null
+http://live.cbncdn.cn/__cl/cg:live/__c/cctv16HD/__op/default/__f/index.m3u8?sig=6d4c28d7169ef28912bfbd18876a170e&ext_start_limit=1702208668&int_start_limit=1702208668&expires=1702208668&c=null
 #EXTINF:-1 tvg-id="CCTV17农业农村" tvg-name="CCTV17农业农村" tvg-logo="https://yaochucai.github.io/电视图标/CCTV17农业农村.png" group-title="央视频道",CCTV17农业农村
-http://live.cbncdn.cn/__cl/cg:live/__c/cctv17HD/__op/default/__f/index.m3u8?sig=487b7cc6264d6b05455226e34844069b&ext_start_limit=1702195294&int_start_limit=1702195294&expires=1702195294&c=null
+http://live.cbncdn.cn/__cl/cg:live/__c/cctv17HD/__op/default/__f/index.m3u8?sig=9ebf7caa3129615047ac21fa4087d8bf&ext_start_limit=1702206074&int_start_limit=1702206074&expires=1702206074&c=null
 #EXTINF:-1 tvg-id="CCTV兵器科技" tvg-name="CCTV兵器科技" tvg-logo="https://yaochucai.github.io/电视图标/CCTV兵器科技.png" group-title="央视频道",CCTV兵器科技
-http://live.cbncdn.cn/__cl/cg:live/__c/bqkjHD/__op/default/__f/index.m3u8?sig=81de0f30345b3b6866ee3850b1925902&ext_start_limit=1702195360&int_start_limit=1702195360&expires=1702195360&c=null
+http://live.cbncdn.cn/__cl/cg:live/__c/bqkjHD/__op/default/__f/index.m3u8?sig=4b32e385d49d818565c30a2c087e2746&ext_start_limit=1702209979&int_start_limit=1702209979&expires=1702209979&c=null
 #EXTINF:-1 tvg-id="CCTV老故事" tvg-name="CCTV老故事" tvg-logo="https://yaochucai.github.io/电视图标/CCTV老故事.png" group-title="央视频道",CCTV老故事
-http://live.cbncdn.cn/__cl/cg:live/__c/gushi/__op/default/__f/index.m3u8?sig=3b1f982c043ff2ecc7117bdacfeb28d3&ext_start_limit=1702194446&int_start_limit=1702194446&expires=1702194446&c=null
+http://live.cbncdn.cn/__cl/cg:live/__c/gushi/__op/default/__f/index.m3u8?sig=4a66b77899681558ac2818906272ff77&ext_start_limit=1702211633&int_start_limit=1702211633&expires=1702211633&c=null
 #EXTINF:-1 tvg-id="CCTV怀旧剧场" tvg-name="CCTV怀旧剧场" tvg-logo="https://yaochucai.github.io/电视图标/CCTV怀旧剧场.png" group-title="央视频道",CCTV怀旧剧场
-http://live.cbncdn.cn/__cl/cg:live/__c/hjjcHD/__op/default/__f/index.m3u8?sig=ffd174afd4499f4d69ed8d9e33ae751a&ext_start_limit=1702198624&int_start_limit=1702198624&expires=1702198624&c=null
+http://live.cbncdn.cn/__cl/cg:live/__c/hjjcHD/__op/default/__f/index.m3u8?sig=6ed893b26ed91cc34731eed571b7a892&ext_start_limit=1702205893&int_start_limit=1702205893&expires=1702205893&c=null
 #EXTINF:-1 tvg-id="CCTV第一剧场" tvg-name="CCTV第一剧场" tvg-logo="https://yaochucai.github.io/电视图标/CCTV第一剧场.png" group-title="央视频道",CCTV第一剧场
-http://live.cbncdn.cn/__cl/cg:live/__c/diyijuchangHD/__op/default/__f/index.m3u8?sig=f533bb8b62c16e5d1ce8a896baa0899c&ext_start_limit=1702192942&int_start_limit=1702192942&expires=1702192942&c=null
+http://live.cbncdn.cn/__cl/cg:live/__c/diyijuchangHD/__op/default/__f/index.m3u8?sig=22c84942e4960cf9507f449217dc07e7&ext_start_limit=1702207544&int_start_limit=1702207544&expires=1702207544&c=null
 #EXTINF:-1 tvg-id="CCTV女性时尚" tvg-name="CCTV女性时尚" tvg-logo="https://yaochucai.github.io/电视图标/CCTV女性时尚.png" group-title="央视频道",CCTV女性时尚
-http://live.cbncdn.cn/__cl/cg:live/__c/nvxing/__op/default/__f/index.m3u8?sig=5247e9749b5f873164c3caea4be5e340&ext_start_limit=1702197451&int_start_limit=1702197451&expires=1702197451&c=null
+http://live.cbncdn.cn/__cl/cg:live/__c/nvxing/__op/default/__f/index.m3u8?sig=3a42a6a0d5c6202571085b42c5a3ed8d&ext_start_limit=1702205227&int_start_limit=1702205227&expires=1702205227&c=null
 #EXTINF:-1 tvg-id="CCTV央视文化精品" tvg-name="CCTV央视文化精品" tvg-logo="https://yaochucai.github.io/电视图标/CCTV央视文化精品.png" group-title="央视频道",CCTV央视文化精品
-http://live.cbncdn.cn/__cl/cg:live/__c/yswhHD/__op/default/__f/index.m3u8?sig=e79f52c29588151228845e8b25008162&ext_start_limit=1702196527&int_start_limit=1702196527&expires=1702196527&c=null
+http://live.cbncdn.cn/__cl/cg:live/__c/yswhHD/__op/default/__f/index.m3u8?sig=ac032f5928bece6d92f7e28766b3c1f7&ext_start_limit=1702205140&int_start_limit=1702205140&expires=1702205140&c=null
 #EXTINF:-1 tvg-id="CCTV中学生" tvg-name="CCTV中学生" tvg-logo="https://yaochucai.github.io/电视图标/CCTV中学生.png" group-title="央视频道",CCTV中学生
-http://live.cbncdn.cn/__cl/cg:live/__c/qicai/__op/default/__f/index.m3u8?sig=f6242677922ccc0d3a0eb45614032125&ext_start_limit=1702198870&int_start_limit=1702198870&expires=1702198870&c=null
+http://live.cbncdn.cn/__cl/cg:live/__c/qicai/__op/default/__f/index.m3u8?sig=c53242f793747fe00229249e32dc04c2&ext_start_limit=1702209292&int_start_limit=1702209292&expires=1702209292&c=null
 #EXTINF:-1 tvg-id="CCTV发现之旅" tvg-name="CCTV发现之旅" tvg-logo="https://yaochucai.github.io/电视图标/CCTV发现之旅.png" group-title="央视频道",CCTV发现之旅
-http://live.cbncdn.cn/__cl/cg:live/__c/faxian/__op/default/__f/index.m3u8?sig=55a7ecaefe1b082fd3038928e3698cda&ext_start_limit=1702192804&int_start_limit=1702192804&expires=1702192804&c=null
+http://live.cbncdn.cn/__cl/cg:live/__c/faxian/__op/default/__f/index.m3u8?sig=bae71175462865e6be57351245441488&ext_start_limit=1702208812&int_start_limit=1702208812&expires=1702208812&c=null
 #EXTINF:-1 tvg-id="CCTV书画" tvg-name="CCTV书画" tvg-logo="https://yaochucai.github.io/电视图标/CCTV书画.png" group-title="央视频道",CCTV书画
-http://live.cbncdn.cn/__cl/cg:live/__c/shuhua/__op/default/__f/index.m3u8?sig=f7cf39bd5c10ed96972cbd33cab90399&ext_start_limit=1702192425&int_start_limit=1702192425&expires=1702192425&c=null
+http://live.cbncdn.cn/__cl/cg:live/__c/shuhua/__op/default/__f/index.m3u8?sig=b751df0f09991920207dcf48f2dfaa03&ext_start_limit=1702208671&int_start_limit=1702208671&expires=1702208671&c=null
 #EXTINF:-1 tvg-id="CCTV风云剧场" tvg-name="CCTV风云剧场" tvg-logo="https://yaochucai.github.io/电视图标/CCTV风云剧场.png" group-title="央视频道",CCTV风云剧场
-http://live.cbncdn.cn/__cl/cg:live/__c/fyjcHD/__op/default/__f/index.m3u8?sig=e10761e47e52f308cc3c789e46a5dc60&ext_start_limit=1702192254&int_start_limit=1702192254&expires=1702192254&c=null
+http://live.cbncdn.cn/__cl/cg:live/__c/fyjcHD/__op/default/__f/index.m3u8?sig=33beff3224edc8bb3b18206c64332482&ext_start_limit=1702207701&int_start_limit=1702207701&expires=1702207701&c=null
 #EXTINF:-1 tvg-id="CCTV风云足球" tvg-name="CCTV风云足球" tvg-logo="https://yaochucai.github.io/电视图标/CCTV风云足球.png" group-title="央视频道",CCTV风云足球
-http://live.cbncdn.cn/__cl/cg:live/__c/fyzqHD/__op/default/__f/index.m3u8?sig=97a924147c7f7288a6da00d1502eeba8&ext_start_limit=1702194886&int_start_limit=1702194886&expires=1702194886&c=null
+http://live.cbncdn.cn/__cl/cg:live/__c/fyzqHD/__op/default/__f/index.m3u8?sig=9192e13d8b60052cf44c1ddd3e1a9032&ext_start_limit=1702209541&int_start_limit=1702209541&expires=1702209541&c=null
 #EXTINF:-1 tvg-id="CCTV央视台球" tvg-name="CCTV央视台球" tvg-logo="https://yaochucai.github.io/电视图标/CCTV央视台球.png" group-title="央视频道",CCTV央视台球
-http://live.cbncdn.cn/__cl/cg:live/__c/ystqHD/__op/default/__f/index.m3u8?sig=c7dc14ca4d5f18bf63884dd5eda0a652&ext_start_limit=1702194539&int_start_limit=1702194539&expires=1702194539&c=null
+http://live.cbncdn.cn/__cl/cg:live/__c/ystqHD/__op/default/__f/index.m3u8?sig=99a05412274d73bb01258782f9a215c5&ext_start_limit=1702210608&int_start_limit=1702210608&expires=1702210608&c=null
 #EXTINF:-1 tvg-id="CCTV高尔夫·网球" tvg-name="CCTV高尔夫·网球" tvg-logo="https://yaochucai.github.io/电视图标/CCTV高尔夫·网球.png" group-title="央视频道",CCTV高尔夫·网球
-http://live.cbncdn.cn/__cl/cg:live/__c/golfHD/__op/default/__f/index.m3u8?sig=569f4652bd6443eade3de8f733cca633&ext_start_limit=1702198879&int_start_limit=1702198879&expires=1702198879&c=null
+http://live.cbncdn.cn/__cl/cg:live/__c/golfHD/__op/default/__f/index.m3u8?sig=02f42390a552043acf42e902100861b0&ext_start_limit=1702206727&int_start_limit=1702206727&expires=1702206727&c=null
 #EXTINF:-1 tvg-id="CHC动作电影" tvg-name="CHC动作电影" tvg-logo="https://yaochucai.github.io/电视图标/CHC动作电影.png" group-title="其它频道",CHC动作电影
-http://live.cbncdn.cn/__cl/cg:live/__c/chcdzdyHD/__op/default/__f/index.m3u8?sig=8f95ea38056e7276b22ebd193a6cab08&ext_start_limit=1702197388&int_start_limit=1702197388&expires=1702197388&c=null
+http://live.cbncdn.cn/__cl/cg:live/__c/chcdzdyHD/__op/default/__f/index.m3u8?sig=b3a6e18496a24b93f71b98691416382a&ext_start_limit=1702204661&int_start_limit=1702204661&expires=1702204661&c=null
 #EXTINF:-1 tvg-id="CHC家庭影院" tvg-name="CHC家庭影院" tvg-logo="https://yaochucai.github.io/电视图标/CHC家庭影院.png" group-title="其它频道",CHC家庭影院
-http://live.cbncdn.cn/__cl/cg:live/__c/chcjtyyHD/__op/default/__f/index.m3u8?sig=2f061cdf4ba383dec533779eb1f4eaa9&ext_start_limit=1702197716&int_start_limit=1702197716&expires=1702197716&c=null
+http://live.cbncdn.cn/__cl/cg:live/__c/chcjtyyHD/__op/default/__f/index.m3u8?sig=9a9ba2a069947ad4060b92e538d481fb&ext_start_limit=1702205326&int_start_limit=1702205326&expires=1702205326&c=null
 #EXTINF:-1 tvg-id="CHC高清电影" tvg-name="CHC高清电影" tvg-logo="https://yaochucai.github.io/电视图标/CHC高清电影.png" group-title="其它频道",CHC高清电影
-http://live.cbncdn.cn/__cl/cg:live/__c/chcgqdyHD/__op/default/__f/index.m3u8?sig=bb62deee909101c88b56b023878d4c5f&ext_start_limit=1702197570&int_start_limit=1702197570&expires=1702197570&c=null
+http://live.cbncdn.cn/__cl/cg:live/__c/chcgqdyHD/__op/default/__f/index.m3u8?sig=abf29cb8ace3f906c8b455890f9e386f&ext_start_limit=1702206975&int_start_limit=1702206975&expires=1702206975&c=null
 #EXTINF:-1 tvg-id="早期教育" tvg-name="早期教育" tvg-logo="https://yaochucai.github.io/电视图标/早期教育.png" group-title="其它频道",早期教育
-http://live.cbncdn.cn/__cl/cg:live/__c/zaojiaoHD/__op/default/__f/index.m3u8?sig=90c814b77d9ba057dc06be6eaf21033c&ext_start_limit=1702197825&int_start_limit=1702197825&expires=1702197825&c=null
+http://live.cbncdn.cn/__cl/cg:live/__c/zaojiaoHD/__op/default/__f/index.m3u8?sig=4624eb86b32ef106d3c404fb08926495&ext_start_limit=1702205607&int_start_limit=1702205607&expires=1702205607&c=null
 #EXTINF:-1 tvg-id="中国教育一套CETV1" tvg-name="中国教育一套CETV1" tvg-logo="https://yaochucai.github.io/电视图标/中国教育一套CETV1.png" group-title="其它频道",中国教育一套CETV1
-http://live.cbncdn.cn/__cl/cg:live/__c/cetv-1SD/__op/default/__f/index.m3u8?sig=9ce5913cd166db26e6994eb6d681801a&ext_start_limit=1702192426&int_start_limit=1702192426&expires=1702192426&c=null
+http://live.cbncdn.cn/__cl/cg:live/__c/cetv-1SD/__op/default/__f/index.m3u8?sig=4417d59be5317c958ed8f064e81a6b50&ext_start_limit=1702209686&int_start_limit=1702209686&expires=1702209686&c=null
 #EXTINF:-1 tvg-id="CETV4空中课堂" tvg-name="CETV4空中课堂" tvg-logo="https://yaochucai.github.io/电视图标/CETV4空中课堂.png" group-title="其它频道",CETV4空中课堂
-http://live.cbncdn.cn/__cl/cg:live/__c/cetv-4SD/__op/default/__f/index.m3u8?sig=2fe9514ba5e0d652d73a2f2e47df0338&ext_start_limit=1702197771&int_start_limit=1702197771&expires=1702197771&c=null
+http://live.cbncdn.cn/__cl/cg:live/__c/cetv-4SD/__op/default/__f/index.m3u8?sig=07e67f5ee55b14b355aeaed140cafce7&ext_start_limit=1702205114&int_start_limit=1702205114&expires=1702205114&c=null
 #EXTINF:-1 tvg-id="国学频道" tvg-name="国学频道" tvg-logo="https://yaochucai.github.io/电视图标/国学频道.png" group-title="其它频道",国学频道
-http://live.cbncdn.cn/__cl/cg:live/__c/guoxue/__op/default/__f/index.m3u8?sig=4869ee1f4d9dffb5b56662c201e05d47&ext_start_limit=1702192756&int_start_limit=1702192756&expires=1702192756&c=null
+http://live.cbncdn.cn/__cl/cg:live/__c/guoxue/__op/default/__f/index.m3u8?sig=42e60a001837d10a67f939300cc5166d&ext_start_limit=1702207833&int_start_limit=1702207833&expires=1702207833&c=null
 #EXTINF:-1 tvg-id="安徽卫视" tvg-name="安徽卫视" tvg-logo="https://yaochucai.github.io/电视图标/安徽卫视.png" group-title="其它频道",安徽卫视
-http://live.cbncdn.cn/__cl/cg:live/__c/anhuiSD/__op/default/__f/index.m3u8?sig=84b874e66e25f56edb8095ff4419a797&ext_start_limit=1702199003&int_start_limit=1702199003&expires=1702199003&c=null
+http://live.cbncdn.cn/__cl/cg:live/__c/anhuiSD/__op/default/__f/index.m3u8?sig=bec236babee120163a458fde03516220&ext_start_limit=1702206461&int_start_limit=1702206461&expires=1702206461&c=null
 #EXTINF:-1 tvg-id="北京新闻" tvg-name="北京新闻" tvg-logo="https://yaochucai.github.io/电视图标/北京新闻.png" group-title="北京频道",北京新闻
 https://live.funhillrm.com/5/sd/live.m3u8
