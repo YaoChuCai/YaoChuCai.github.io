@@ -26,7 +26,7 @@ http://live.cbncdn.cn/__cl/cg:live/__c/cctv1HD/__op/default/__f/index.m3u8?sig=6
 #EXTINF:-1 tvg-id="CCTV2财经" tvg-name="CCTV2财经" tvg-logo="https://yaochucai.github.io/电视图标/CCTV2财经.png" group-title="央视频道",CCTV2财经
 http://live.cbncdn.cn/__cl/cg:live/__c/cctv2HD/__op/default/__f/index.m3u8?sig=fe10f20a6bba88344f6e3772ee0836ca&ext_start_limit=1702346167&int_start_limit=1702346167&expires=1702346167&c=null
 #EXTINF:-1 tvg-id="CCTV3综艺" tvg-name="CCTV3综艺" tvg-logo="https://yaochucai.github.io/电视图标/CCTV3综艺.png" group-title="央视频道",CCTV3综艺
-http://live.cbncdn.cn/__cl/cg:live/__c/cctv3HD/__op/default/__f/index.m3u8?sig=23baf6df5fc7d1d5aad4fa2540843389&ext_start_limit=1702346068&int_start_limit=1702346068&expires=1702346068&c=null
+http://120.196.232.50:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226720/1.m3u8
 #EXTINF:-1 tvg-id="CCTV4中文国际" tvg-name="CCTV4中文国际" tvg-logo="https://yaochucai.github.io/电视图标/CCTV4中文国际.png" group-title="央视频道",CCTV4中文国际
 http://live.cbncdn.cn/__cl/cg:live/__c/cctv4HD/__op/default/__f/index.m3u8?sig=48720413977eeba550420acfc740368e&ext_start_limit=1702341947&int_start_limit=1702341947&expires=1702341947&c=null
 #EXTINF:-1 tvg-id="CCTV5体育" tvg-name="CCTV5体育" tvg-logo="https://yaochucai.github.io/电视图标/CCTV5体育.png" group-title="央视频道",CCTV5体育
