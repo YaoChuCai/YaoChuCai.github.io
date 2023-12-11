@@ -22,7 +22,7 @@ CCTV7国防军事,http://live.cbncdn.cn/__cl/cg:live/__c/cctv7HD/__op/default/__
 CCTV8电视剧,http://live.cbncdn.cn/__cl/cg:live/__c/cctv8HD/__op/default/__f/index.m3u8?sig=2d654f52e809874fa637afd96eee78c9&ext_start_limit=1702353382&int_start_limit=1702353382&expires=1702353382&c=null
 CCTV9纪录,http://live.cbncdn.cn/__cl/cg:live/__c/cctv9HD/__op/default/__f/index.m3u8?sig=c26fb5a192847c7a7207c05a1f84b3cc&ext_start_limit=1702348011&int_start_limit=1702348011&expires=1702348011&c=null
 CCTV10科教,http://live.cbncdn.cn/__cl/cg:live/__c/cctv10HD/__op/default/__f/index.m3u8?sig=020b9a7b0db44398d46f4422f0bf117b&ext_start_limit=1702349460&int_start_limit=1702349460&expires=1702349460&c=null
-CCTV11戏曲,http://120.196.232.55:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226714/1.m3u8
+CCTV11戏曲,http://live.cbncdn.cn/__cl/cg:live/__c/cctv11HD/__op/default/__f/index.m3u8?sig=74e6eb7c2fa412cd77b24e16ff033583&ext_start_limit=1702362305&int_start_limit=1702362305&expires=1702362305&c=null
 CCTV12社会与法,http://live.cbncdn.cn/__cl/cg:live/__c/cctv12HD/__op/default/__f/index.m3u8?sig=3f06affecd3b08250ff0025090d9269e&ext_start_limit=1702353446&int_start_limit=1702353446&expires=1702353446&c=null
 CCTV13新闻,http://live.cbncdn.cn/__cl/cg:live/__c/CCTVNewsHD/__op/default/__f/index.m3u8?sig=ade40c9afb8442afb320deb17acefdbc&ext_start_limit=1702349453&int_start_limit=1702349453&expires=1702349453&c=null
 CCTV14少儿,http://live.cbncdn.cn/__cl/cg:live/__c/cctvseHD/__op/default/__f/index.m3u8?sig=a3aa810c6294a664828a79e4d36cf804&ext_start_limit=1702353465&int_start_limit=1702353465&expires=1702353465&c=null
