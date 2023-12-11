@@ -13,7 +13,7 @@
 央视频道,#genre#
 CCTV1综合,http://live.cbncdn.cn/__cl/cg:live/__c/cctv1HD/__op/default/__f/index.m3u8?sig=640206370ebad5281962bc9091cb9789&ext_start_limit=1702345915&int_start_limit=1702345915&expires=1702345915&c=null
 CCTV2财经,http://live.cbncdn.cn/__cl/cg:live/__c/cctv2HD/__op/default/__f/index.m3u8?sig=fe10f20a6bba88344f6e3772ee0836ca&ext_start_limit=1702346167&int_start_limit=1702346167&expires=1702346167&c=null
-CCTV3综艺,http://live.cbncdn.cn/__cl/cg:live/__c/cctv3HD/__op/default/__f/index.m3u8?sig=23baf6df5fc7d1d5aad4fa2540843389&ext_start_limit=1702346068&int_start_limit=1702346068&expires=1702346068&c=null
+CCTV3综艺,http://120.196.232.50:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226720/1.m3u8
 CCTV4中文国际,http://live.cbncdn.cn/__cl/cg:live/__c/cctv4HD/__op/default/__f/index.m3u8?sig=48720413977eeba550420acfc740368e&ext_start_limit=1702341947&int_start_limit=1702341947&expires=1702341947&c=null
 CCTV5体育,http://live.cbncdn.cn/__cl/cg:live/__c/cctv5HD/__op/default/__f/index.m3u8?sig=ba2bb917c31dfb241594fb5f01ea238f&ext_start_limit=1702346097&int_start_limit=1702346097&expires=1702346097&c=null
 CCTV5+体育赛事,http://live.cbncdn.cn/__cl/cg:live/__c/cctv5SportHD/__op/default/__f/index.m3u8?sig=d34d9321a132b2281830b20a5042d8db&ext_start_limit=1702341645&int_start_limit=1702341645&expires=1702341645&c=null
