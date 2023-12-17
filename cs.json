@@ -1,2 +1,12 @@
-"url": "https://codeberg.org/looktv/my/raw/branch/main/ck.json",
-      "name": "电视家"
+{
+  "urls": [
+    {
+      "url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC0.json",
+      "name": "🕍线路1"
+    },
+    {
+      "url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC1.json",
+      "name": "✨线路2"
+    }
+  ]
+}
