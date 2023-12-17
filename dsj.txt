@@ -53,7 +53,6 @@ CCTV高尔夫·网球,http://live.cbncdn.cn/__cl/cg:live/__c/golfHD/__op/default
 辽宁卫视,http://live.cbncdn.cn/__cl/cg:live/__c/liaoningHD/__op/default/__f/index.m3u8?sig=8aa171e9584d7cdb1c03d5c863808969&ext_start_limit=1702894915&int_start_limit=1702894915&expires=1702894915&c=null
 江西卫视,http://live.cbncdn.cn/__cl/cg:live/__c/jiangxiHD/__op/default/__f/index.m3u8?sig=eca08a5ab6382955e2f18526625b21d2&ext_start_limit=1702889909&int_start_limit=1702889909&expires=1702889909&c=null
 黑龙江卫视,http://live.cbncdn.cn/__cl/cg:live/__c/heilongjiangHD/__op/default/__f/index.m3u8?sig=f6bc87768f453e18a987fba6ac453733&ext_start_limit=1702888669&int_start_limit=1702888669&expires=1702888669&c=null
-云南卫视,http://tvlive.ynradio.com/live/yunnanweishi/chunks.m3u8
 四川卫视,http://live.cbncdn.cn/__cl/cg:live/__c/sichuanHD/__op/default/__f/index.m3u8?sig=afd6b0115dfe345cdd71af7f5acdcdea&ext_start_limit=1702888535&int_start_limit=1702888535&expires=1702888535&c=null
 河南卫视,http://live.cbncdn.cn/__cl/cg:live/__c/henanHD/__op/default/__f/index.m3u8?sig=6ea89493292a1f0ce12e74f0fefea2e5&ext_start_limit=1702895065&int_start_limit=1702895065&expires=1702895065&c=null
 广东卫视,http://live.cbncdn.cn/__cl/cg:live/__c/guangdongHD/__op/default/__f/index.m3u8?sig=bafcb22837c63a1c07ecc50f73267090&ext_start_limit=1702892038&int_start_limit=1702892038&expires=1702892038&c=null
@@ -64,7 +63,6 @@ CCTV高尔夫·网球,http://live.cbncdn.cn/__cl/cg:live/__c/golfHD/__op/default
 吉林卫视,http://live.cbncdn.cn/__cl/cg:live/__c/jilinHD/__op/default/__f/index.m3u8?sig=5101070d318891887f45edc94ef99a27&ext_start_limit=1702890946&int_start_limit=1702890946&expires=1702890946&c=null
 广西卫视,http://live.cbncdn.cn/__cl/cg:live/__c/guangxiHD/__op/default/__f/index.m3u8?sig=b2718b486dfce87e4bed3051dbddf2ba&ext_start_limit=1702892693&int_start_limit=1702892693&expires=1702892693&c=null
 山西卫视,http://live.cbncdn.cn/__cl/cg:live/__c/shanxiSD/__op/default/__f/index.m3u8?sig=2ee1f1b312da6bd5b5b531ddf5cd9644&ext_start_limit=1702895138&int_start_limit=1702895138&expires=1702895138&c=null
-陕西卫视,http://stream.snrtv.com/sxbc-star-kxEJZ4.m3u8
 内蒙古卫视,http://live.cbncdn.cn/__cl/cg:live/__c/neimengkuSD/__op/default/__f/index.m3u8?sig=4ac0405fc03ad1c1c76dc7c5bcbf4b8e&ext_start_limit=1702895148&int_start_limit=1702895148&expires=1702895148&c=null
 西藏卫视,http://live.cbncdn.cn/__cl/cg:live/__c/xizangSD/__op/default/__f/index.m3u8?sig=1aa6381328426ffc8e49acb5f3d094aa&ext_start_limit=1702892716&int_start_limit=1702892716&expires=1702892716&c=null
 新疆卫视,http://live.cbncdn.cn/__cl/cg:live/__c/xinjiangSD/__op/default/__f/index.m3u8?sig=8e454379babbb6fc9a9a03c6d143126f&ext_start_limit=1702895166&int_start_limit=1702895166&expires=1702895166&c=null
