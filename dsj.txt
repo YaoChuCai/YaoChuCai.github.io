@@ -1,5 +1,5 @@
 ﻿重庆频道,#genre#
-合川综合,http://live.cbncdn.cn/__cl/cg:live/__c/hechuan/__op/default/__f/index.m3u8?sig=68b3c8e40d9944dd076a7b607a6fdd3d&ext_start_limit=1703495874&int_start_limit=1703495874&expires=1703495874&c=null
+合川综1合,http://live.cbncdn.cn/__cl/cg:live/__c/hechuan/__op/default/__f/index.m3u8?sig=68b3c8e40d9944dd076a7b607a6fdd3d&ext_start_limit=1703495874&int_start_limit=1703495874&expires=1703495874&c=null
 重庆社会与法,http://live.cbncdn.cn/__cl/cg:live/__c/CQTVTrendyHD/__op/default/__f/index.m3u8?sig=beb30ea95def88c2e80e828401d6c78f&ext_start_limit=1703494506&int_start_limit=1703494506&expires=1703494506&c=null
 重庆新闻,http://live.cbncdn.cn/__cl/cg:live/__c/CQTVNewsHD/__op/default/__f/index.m3u8?sig=b87b849ed2b15a4dfd31f2ff858c407a&ext_start_limit=1703493071&int_start_limit=1703493071&expires=1703493071&c=null
 重庆影视,http://live.cbncdn.cn/__cl/cg:live/__c/cqyingshiHD/__op/default/__f/index.m3u8?sig=78bb6325affa347ed05d378a761ef569&ext_start_limit=1703495893&int_start_limit=1703495893&expires=1703495893&c=null
