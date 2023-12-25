@@ -1,5 +1,5 @@
 ﻿重庆频道,#genre#
-合川综合,http://live.cbncdn.cn/__cl/cg:live/__c/hechuan/__op/default/__f/index.m3u8?sig=f9bb1e13271973792b631a2b45780502&ext_start_limit=1703588082&int_start_limit=1703588082&expires=1703588082&c=null
+合川综合,http://live.cbncdn.cn/__cl/cg:live/__c/hechuan/__op/default/__f/index.m3u8?sig=ca28a6898c9c256fed6418ae49433786&ext_start_limit=1703596559&int_start_limit=1703596559&expires=1703596559&c=null
 重庆社会与法,http://live.cbncdn.cn/__cl/cg:live/__c/CQTVTrendyHD/__op/default/__f/index.m3u8?sig=c9399bcef134994d3dfb991ca669b46d&ext_start_limit=1703595200&int_start_limit=1703595200&expires=1703595200&c=null
 重庆新闻,http://live.cbncdn.cn/__cl/cg:live/__c/CQTVNewsHD/__op/default/__f/index.m3u8?sig=9b1f9cb6f31e1f8f0bbafdf991cea975&ext_start_limit=1703590179&int_start_limit=1703590179&expires=1703590179&c=null
 重庆影视,http://live.cbncdn.cn/__cl/cg:live/__c/cqyingshiHD/__op/default/__f/index.m3u8?sig=8b14ae5d66a13ecf80336fcfd986b995&ext_start_limit=1703590860&int_start_limit=1703590860&expires=1703590860&c=null
@@ -19,11 +19,11 @@ CCTV5体育,http://live.cbncdn.cn/__cl/cg:live/__c/cctv5HD/__op/default/__f/inde
 CCTV5+体育赛事,http://live.cbncdn.cn/__cl/cg:live/__c/cctv5SportHD/__op/default/__f/index.m3u8?sig=0dc012ea1548e46972d1260918d20b84&ext_start_limit=1703589849&int_start_limit=1703589849&expires=1703589849&c=null
 CCTV6电影,http://live.cbncdn.cn/__cl/cg:live/__c/cctv6HD/__op/default/__f/index.m3u8?sig=f7cd789bdcdfed70ea6d29a91e83cb7b&ext_start_limit=1703589522&int_start_limit=1703589522&expires=1703589522&c=null
 CCTV7国防军事,http://live.cbncdn.cn/__cl/cg:live/__c/cctv7HD/__op/default/__f/index.m3u8?sig=6dd7c99444965f7352d3d5a8b8ccc111&ext_start_limit=1703590538&int_start_limit=1703590538&expires=1703590538&c=null
-CCTV8电视剧,http://live.cbncdn.cn/__cl/cg:live/__c/cctv8HD/__op/default/__f/index.m3u8?sig=23f2accd2386e07eef52eab674e2cdb7&ext_start_limit=1703588849&int_start_limit=1703588849&expires=1703588849&c=null
+CCTV8电视剧,http://live.cbncdn.cn/__cl/cg:live/__c/cctv8HD/__op/default/__f/index.m3u8?sig=9312bbbfe1d064c46949e552f005177b&ext_start_limit=1703596052&int_start_limit=1703596052&expires=1703596052&c=null
 CCTV9纪录,http://live.cbncdn.cn/__cl/cg:live/__c/cctv9HD/__op/default/__f/index.m3u8?sig=3ffffa45726ad3143cd146de8a0424c9&ext_start_limit=1703595126&int_start_limit=1703595126&expires=1703595126&c=null
 CCTV10科教,http://live.cbncdn.cn/__cl/cg:live/__c/cctv10HD/__op/default/__f/index.m3u8?sig=aeb3dc95c34b7f04614c81e608e7b063&ext_start_limit=1703590549&int_start_limit=1703590549&expires=1703590549&c=null
 CCTV11戏曲,http://live.cbncdn.cn/__cl/cg:live/__c/cctv11HD/__op/default/__f/index.m3u8?sig=77fcd34d2b6648d182cab35e19138ea3&ext_start_limit=1703590663&int_start_limit=1703590663&expires=1703590663&c=null
-CCTV12社会与法,http://live.cbncdn.cn/__cl/cg:live/__c/cctv12HD/__op/default/__f/index.m3u8?sig=62fc4a6c556a81e130d5fc7c136af1b6&ext_start_limit=1703589281&int_start_limit=1703589281&expires=1703589281&c=null
+CCTV12社会与法,http://live.cbncdn.cn/__cl/cg:live/__c/cctv12HD/__op/default/__f/index.m3u8?sig=7c525a056286a6802d8ee6fc6aa12411&ext_start_limit=1703596618&int_start_limit=1703596618&expires=1703596618&c=null
 CCTV13新闻,http://live.cbncdn.cn/__cl/cg:live/__c/CCTVNewsHD/__op/default/__f/index.m3u8?sig=b60f11592108054bc0d8be457ed3ccb1&ext_start_limit=1703591444&int_start_limit=1703591444&expires=1703591444&c=null
 CCTV14少儿,http://live.cbncdn.cn/__cl/cg:live/__c/cctvseHD/__op/default/__f/index.m3u8?sig=c06363439ebd8dc9b0d3b79d7a39dcc2&ext_start_limit=1703589570&int_start_limit=1703589570&expires=1703589570&c=null
 CCTV15音乐,http://live.cbncdn.cn/__cl/cg:live/__c/cctv15HD/__op/default/__f/index.m3u8?sig=96d794ebaa7a0291a9681f3091a524f3&ext_start_limit=1703590192&int_start_limit=1703590192&expires=1703590192&c=null
@@ -40,7 +40,7 @@ CCTV发现之旅,http://live.cbncdn.cn/__cl/cg:live/__c/faxian/__op/default/__f/
 CCTV书画频道,http://live.cbncdn.cn/__cl/cg:live/__c/shuhua/__op/default/__f/index.m3u8?sig=dfeffb52229e67cd77e87d07ed4e3e40&ext_start_limit=1703590524&int_start_limit=1703590524&expires=1703590524&c=null
 CCTV风云剧场,http://live.cbncdn.cn/__cl/cg:live/__c/fyjcHD/__op/default/__f/index.m3u8?sig=65b22a4d88e86c4d7010a5489da4bb4d&ext_start_limit=1703594029&int_start_limit=1703594029&expires=1703594029&c=null
 CCTV风云足球,http://live.cbncdn.cn/__cl/cg:live/__c/fyzqHD/__op/default/__f/index.m3u8?sig=d7cc9bdbfbbeb2a5bb6d539940f69cc3&ext_start_limit=1703593779&int_start_limit=1703593779&expires=1703593779&c=null
-CCTV央视台球,http://live.cbncdn.cn/__cl/cg:live/__c/ystqHD/__op/default/__f/index.m3u8?sig=612428920e39ef5ff9e2406d302fd014&ext_start_limit=1703588464&int_start_limit=1703588464&expires=1703588464&c=null
+CCTV央视台球,http://live.cbncdn.cn/__cl/cg:live/__c/ystqHD/__op/default/__f/index.m3u8?sig=a6c3f0e622c9f423aec5a0f8e85dc807&ext_start_limit=1703596894&int_start_limit=1703596894&expires=1703596894&c=null
 CCTV高尔夫·网球,http://live.cbncdn.cn/__cl/cg:live/__c/golfHD/__op/default/__f/index.m3u8?sig=abd9be90445a1ce26f1142b24535414b&ext_start_limit=1703594044&int_start_limit=1703594044&expires=1703594044&c=null
 卫视频道,#genre#
 安徽卫视,http://live.cbncdn.cn/__cl/cg:live/__c/anhuiSD/__op/default/__f/index.m3u8?sig=71486598b922be18f7525119ccfb30cf&ext_start_limit=1703594063&int_start_limit=1703594063&expires=1703594063&c=null
@@ -48,8 +48,8 @@ CCTV高尔夫·网球,http://live.cbncdn.cn/__cl/cg:live/__c/golfHD/__op/default
 湖南卫视,http://live.cbncdn.cn/__cl/cg:live/__c/hunanHD/__op/default/__f/index.m3u8?sig=0d7747d6c0fb30823f222f31ff21bdab&ext_start_limit=1703592020&int_start_limit=1703592020&expires=1703592020&c=null
 浙江卫视,http://live.cbncdn.cn/__cl/cg:live/__c/zhejiangHD/__op/default/__f/index.m3u8?sig=60f36d324fd10ac2954d438b61dc47c8&ext_start_limit=1703595379&int_start_limit=1703595379&expires=1703595379&c=null
 东方卫视,http://live.cbncdn.cn/__cl/cg:live/__c/shanghaiHD/__op/default/__f/index.m3u8?sig=d5b03deddc6b0051d26900578e4d5530&ext_start_limit=1703593766&int_start_limit=1703593766&expires=1703593766&c=null
-江苏卫视,http://live.cbncdn.cn/__cl/cg:live/__c/jiangsuHD/__op/default/__f/index.m3u8?sig=fb8f3a361a406c3cebe9daee3d1f8adc&ext_start_limit=1703589591&int_start_limit=1703589591&expires=1703589591&c=null
-天津卫视,http://live.cbncdn.cn/__cl/cg:live/__c/tianjinHD/__op/default/__f/index.m3u8?sig=5457d6b8f8261f9492e63b37f7e47d10&ext_start_limit=1703589577&int_start_limit=1703589577&expires=1703589577&c=null
+江苏卫视,http://live.cbncdn.cn/__cl/cg:live/__c/jiangsuHD/__op/default/__f/index.m3u8?sig=cecdf278804141413753477f962af0fe&ext_start_limit=1703596934&int_start_limit=1703596934&expires=1703596934&c=null
+天津卫视,http://live.cbncdn.cn/__cl/cg:live/__c/tianjinHD/__op/default/__f/index.m3u8?sig=d3ca114746c56c049efeef11f485dced&ext_start_limit=1703596884&int_start_limit=1703596884&expires=1703596884&c=null
 辽宁卫视,http://live.cbncdn.cn/__cl/cg:live/__c/liaoningHD/__op/default/__f/index.m3u8?sig=4f648331876469056378f6f6aec91125&ext_start_limit=1703595031&int_start_limit=1703595031&expires=1703595031&c=null
 江西卫视,http://live.cbncdn.cn/__cl/cg:live/__c/jiangxiHD/__op/default/__f/index.m3u8?sig=4f6c9523814acaf7c732bc4970f56b79&ext_start_limit=1703595685&int_start_limit=1703595685&expires=1703595685&c=null
 黑龙江卫视,http://live.cbncdn.cn/__cl/cg:live/__c/heilongjiangHD/__op/default/__f/index.m3u8?sig=a9bd2559c247a3b76a02021307350d77&ext_start_limit=1703594146&int_start_limit=1703594146&expires=1703594146&c=null
