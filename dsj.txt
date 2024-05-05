@@ -281,6 +281,7 @@ CCTV-9,http://110.7.128.207:8096/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&a
 CCTV-9,http://58.220.219.14:9901/tsfile/live/0009_1.m3u8?key=txiptv
 CCTV-9,http://113.26.202.86:1099/tsfile/live/0009_1.m3u8?key=txiptv&playlive=0&authid=0
 CCTV-9,http://222.217.243.135:8181/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-9,http://219.135.208.218:8083/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-9,http://59.48.75.130:3052/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-9,http://124.129.235.34:9901/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-9,http://mom.coms.hk:9901/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -336,5 +337,4 @@ CCTV-11,http://110.7.128.156:8096/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&
 CCTV-11,http://110.7.130.140:8096/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-11,http://220.164.192.48:50085/tsfile/live/0012_1.m3u8?key=txiptv&playlive=0&authid=0
 CCTV-11,http://171.117.28.164:9999/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-11,http://110.7.128.17:8096/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-11,http://171.108.239.
+CCTV-11,http://110.7.128.
